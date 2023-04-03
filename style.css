@@ -30,7 +30,7 @@ main {
 .card {
   display: flex;
   flex-direction: column;
-  max-width: 300px;
+  max-width: 350px;
   border-radius: 20px;
   gap: 1.5rem;
   background: white;
@@ -53,12 +53,13 @@ main {
 
 .card .text .bold-text {
   font-weight: 700;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   color: var(--dark-blue);
 }
 
 .card .text .small-text {
   font-weight: 400;
+  font-size: 1.1rem;
   color: var(--grayish-blue);
 }
 
